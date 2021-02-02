@@ -1,7 +1,7 @@
 # QuakeMAP
 The following python script is used to process and visualize seismic event and seismic station data in the Kiskatinaw Seismic Monitoring and Mitigation Area (KSMMA), north-east British Columbia, Canada from 2014-2018.
 
-It is also intended to highlight the functionality of Pandas, GeoPandas and Bokeh for processing and visualizing open source georeferenced data using open source software, in particular for producing an interactive time-series map for explaratory analysis.
+It is also intended to highlight the functionality of Pandas, GeoPandas and Bokeh for processing and visualizing open source georeferenced data using open source software, in particular for producing an interactive time series map for explaratory analysis.
 
 This python script will be updated with seismic event data from 2019-2020 once it is publicly available.
 
